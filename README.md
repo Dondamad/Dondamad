@@ -11,7 +11,6 @@ Let's connect and explore exciting web development projects together!
 * ✉️  You can contact me at [romadon4514@gmail.com](mailto:romadon4514@gmail.com)
 * 🧠  I'm learning React.js, Node.js
 
-![](https://komarev.com/ghpvc/?username=Dondamad&color=blueviolet)
 
 ### Skills
 
