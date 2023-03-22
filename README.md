@@ -37,4 +37,4 @@ Let's connect and explore exciting web development projects together!
 
 <a href="http://www.github.com/Dondamad"><img src="https://github-readme-stats.vercel.app/api?username=Dondamad&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=444e59&icon_color=6366f1&bg_color=ffffff&hide_border=true&show_icons=true" alt="Dondamad's GitHub stats" /></a>
 
-<a href="https://github.com/Dondamad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dondamad&langs_count=10&title_color=6366f1&text_color=444e59&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Dondamad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dondamad&langs_count=5&title_color=6366f1&text_color=444e59&icon_color=6366f1&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%5%Languages" alt="Top Languages" /></a>
