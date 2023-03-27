@@ -5,7 +5,6 @@ Web Developer | Front-end | Back-end
 ------------------------------------
 
 I'm a computer science student. I'm passionate about web development, both frontend and backend, and I'm always looking for ways to improve my skills and knowledge in these areas.
-Let's connect and explore exciting web development projects together!
 
 * 🌍  I'm based in Satun/Thailand
 * ✉️  You can contact me at [romadon4514@gmail.com](mailto:romadon4514@gmail.com)
